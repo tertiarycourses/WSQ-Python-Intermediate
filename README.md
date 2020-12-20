@@ -1,5 +1,5 @@
 # NICF - Python Programming Intermediate Level Course
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [NICF - Python Programming Intermediate Level Course](https://www.tertiarycourses.com.sg/wsq-python-intermediate-level-course.html) course. 
 
